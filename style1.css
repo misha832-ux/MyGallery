@@ -13,7 +13,7 @@
 .h1{
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(10, 9, 9);
+    color: rgb(244, 241, 241);
 }
 
 button{
@@ -37,7 +37,7 @@ button:hover{
 }
 
 body{
-    background-image: url(scenary.JPG);
+    background-image: url(/image/scenary.JPG);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
